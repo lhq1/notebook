@@ -46,7 +46,27 @@
 >
 >is_bit：返回a==1或a==0
 >
+>randomize： 将a赋值为模板类的随机数，待处理
 >
+>almost_randomize：randomize，待处理
+>
+>pack： 待处理
+>
+>unpack： 待处理
+
+>Class Integer
+>
+>继承IntBase
+>
+>构造函数： 各类到Integer的转换，待处理
+>
+>type_char： 返回'R'
+>
+>field_type: 返回DATA_INT（[DATAFieldType类](field_type_h.md)）
+>
+>reqbl: 报错类，待处理
+>
+>to_string: 返回字符串类型的a
 
 
 
