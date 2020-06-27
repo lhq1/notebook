@@ -16,9 +16,9 @@ Bitvec=Bitvec_<long>
 >
 >type_char： 返回'B'
 >
->field_type： 返回DATA_GF2([DataFieldType类](field_type.md))
+>field_type： 返回DATA_GF2([DataFieldType类](field_type_h.md))
 >
->allows： 输入dtype，返回dtype是否等于[DATA_TRIPLE](field_type.md)或者[DATA_BIT](field_type.md)
+>allows： 输入dtype，返回dtype是否等于[DATA_TRIPLE](field_type_h.md)或者[DATA_BIT](field_type_h.md)
 >
 >构造函数：继承于[IntBase](Integer_h.md)，Z2<K>待处理
 >
