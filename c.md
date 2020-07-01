@@ -67,6 +67,12 @@ assert
 
 ***
 
+size_t
+
+64位中为long long unsigned int, 非64位中为long unsigned int
+
+***
+
 ## 特殊使用
 
 ***
